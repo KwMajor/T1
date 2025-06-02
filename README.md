@@ -31,8 +31,7 @@
 
 ### 💻 Passos para execução
 
--  Clone o repositório https://github.com/KwMajor/PetLovers
--  Abra no seu VsCode a pasta atividade-1
+-  Clone o repositório (https://github.com/KwMajor/T1)
 -  Execute os seguintes comandos dentro do terminal do VsCode:
 -  npm install
 -  npm run dev
